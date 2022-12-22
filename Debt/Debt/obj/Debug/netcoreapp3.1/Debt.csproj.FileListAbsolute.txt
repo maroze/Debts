@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\Debt\Debt\bin\Debug\netcoreapp3.1\Debt.exe
+C:\Users\Пользователь\source\repos\Debt\Debt\bin\Debug\netcoreapp3.1\Debt.deps.json
+C:\Users\Пользователь\source\repos\Debt\Debt\bin\Debug\netcoreapp3.1\Debt.runtimeconfig.json
+C:\Users\Пользователь\source\repos\Debt\Debt\bin\Debug\netcoreapp3.1\Debt.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\Debt\Debt\bin\Debug\netcoreapp3.1\Debt.dll
+C:\Users\Пользователь\source\repos\Debt\Debt\bin\Debug\netcoreapp3.1\Debt.pdb
+C:\Users\Пользователь\source\repos\Debt\Debt\obj\Debug\netcoreapp3.1\Debt.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Debt\Debt\obj\Debug\netcoreapp3.1\Debt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\Debt\Debt\obj\Debug\netcoreapp3.1\Debt.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\Debt\Debt\obj\Debug\netcoreapp3.1\Debt.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\Debt\Debt\obj\Debug\netcoreapp3.1\Debt.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Debt\Debt\obj\Debug\netcoreapp3.1\Debt.dll
+C:\Users\Пользователь\source\repos\Debt\Debt\obj\Debug\netcoreapp3.1\Debt.pdb
+C:\Users\Пользователь\source\repos\Debt\Debt\obj\Debug\netcoreapp3.1\Debt.genruntimeconfig.cache
